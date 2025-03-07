@@ -1,8 +1,4 @@
-# EmployeeManagementSystem
-This is a full stack project which is made using React.js for frontend and Spring Boot for backend
-Here's a **README.md** file for your **Employee Management System** project based on the provided requirements:  
 
----
 
 ### **Employee Management System** 🏢
 
@@ -70,7 +66,7 @@ The **Employee Management System (EMS)** is a web-based application designed to 
 ### **1️⃣ Backend (Spring Boot)**
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/ems.git](https://github.com/Anushka4401/EmployeeManagementSystem.git
+   git clone https://github.com/Anushka4401/EmployeeManagementSystem.git
    ```
 2. Navigate to the backend folder:  
    ```sh

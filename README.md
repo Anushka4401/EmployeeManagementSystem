@@ -70,7 +70,7 @@ The **Employee Management System (EMS)** is a web-based application designed to 
 ### **1️⃣ Backend (Spring Boot)**
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-repo/ems.git
+   git clone https://github.com/your-repo/ems.git](https://github.com/Anushka4401/EmployeeManagementSystem.git
    ```
 2. Navigate to the backend folder:  
    ```sh
